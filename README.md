@@ -149,25 +149,21 @@ The application will open in your browser.
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-_Add screenshot here_
+![Home Page](screenshots/homepage.png)
 
-### Teacher Dashboard
+### 🔐 Login Page
 
-_Add screenshot here_
+![Login Page](screenshots/login.png)
 
-### Student Dashboard
+### 👨‍🎓 Student Dashboard
 
-_Add screenshot here_
+![Student Dashboard](screenshots/student-dashboard.png)
 
-### Face Recognition Attendance
+### 👨‍🏫 Teacher Dashboard & AI Attendance
 
-_Add screenshot here_
-
-### Voice Recognition Attendance
-
-_Add screenshot here_
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
 
 ## 🔮 Future Improvements
 
