@@ -1,0 +1,12 @@
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+.env
+.env.*
+*.log
+
+.DS_Store
