@@ -3,7 +3,9 @@
 An AI-powered attendance management system built with **Python, Streamlit, Face Recognition, Voice Recognition, and Supabase**.
 
 The application helps teachers manage subjects and students while automating attendance using face and voice recognition.
+## 🚀 Live Demo
 
+👉 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-attendance-system-paksukruwdwqztyxuk26t6.streamlit.app/).
 ## 🚀 Features
 
 - 👨‍🏫 Teacher login and dashboard
